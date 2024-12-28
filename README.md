@@ -46,11 +46,15 @@ You'll leave this session with a solid, hands-on understanding of leveraging mes
 
 This workshop is designed for developers and architects, so having a background in software development or system architecture will ensure you can fully engage with the material.
 
+> [!TIP]
+>
+> Lab exercise prerequisites are customized for each event. Please click on the appropriate *Workshop Details and Materials* link below for your prerequisites.
+
 ## Presentations
 
-| Event    |   Location   |       Date |      Time |   Room |            Downloads |
-| -------- | :----------: | ---------: | --------: | -----: | -------------------: |
-| CodeMash | Sandusky, OH | 2025-01-15 | 08:00 EST | Orange | Available Afterwards |
+| Event    |   Location   |       Date |      Time |   Room |                                                    Downloads |
+| -------- | :----------: | ---------: | --------: | -----: | -----------------------------------------------------------: |
+| CodeMash | Sandusky, OH | 2025-01-15 | 08:00 EST | Orange | [Workshop Details and Materials](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash) |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Unlock%20the%20Power%20of%20Messaging%20Patterns) to have Chad present this session at your event.
 
