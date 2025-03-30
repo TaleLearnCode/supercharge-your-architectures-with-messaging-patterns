@@ -41,6 +41,7 @@ This workshop is designed for developers and architects, so having a software de
 | Event    |   Location   |       Date |      Time |   Room |                                                    Downloads |
 | -------- | :----------: | ---------: | --------: | -----: | -----------------------------------------------------------: |
 | CodeMash | Sandusky, OH | 2025-01-15 | 08:00 EST | Orange | [Workshop Details and Materials](https://github.com/TaleLearnCode/UnlockThePowerOfMessagingPatterns-CodeMash) |
+| dev up   | St. Charles, MO | 2025-08-06 | TBA | TBA | Available Closer to the Event |
 
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Unlock%20the%20Power%20of%20Messaging%20Patterns) to have Chad present this session at your event.
 
